@@ -5,12 +5,12 @@ This Tutorial is for setting virtual environment
 
 
 ### download python 3.5 environment
-wget https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tar.xz
-tar xf Python-3.5.6.tar.xz
-cd Python-3.5.6
-./configure
-make
-sudo make altinstall
+    wget https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tar.xz
+    tar xf Python-3.5.6.tar.xz
+    cd Python-3.5.6
+    ./configure
+    make
+    sudo make altinstall
 
 
 ## 以下會以中文說明
