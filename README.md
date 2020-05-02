@@ -24,10 +24,10 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
 ### opencv 
     sudo apt install libqt4-test
     sudo apt-get install -y festival python-dev python-opencv python-pip x11vnc liblivemedia-dev libv4l-dev cmake python-matplotlib vlc libatlas-base-dev libjasper-dev libqtgui4 python3-pyqt5
-    pip install opencv-
+    pip install opencv-python
     pip install opencv-contrib-python==4.1.0.25
 
 ### 熱感應 Thinkerforge
-https://www.tinkerforge.com/en/doc/Downloads.html#downloads-tools
-下載 Brick Daemon  ==> Unix(armhf)
+https://www.tinkerforge.com/en/doc/Downloads.html#downloads-tools\n
+下載 Brick Daemon  ==> Unix(armhf)\n
 下載 Brick Viewer  ==> Linux
