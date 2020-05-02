@@ -28,6 +28,6 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
     pip install opencv-contrib-python==4.1.0.25
 
 ### 熱感應 Thinkerforge
-https://www.tinkerforge.com/en/doc/Downloads.html#downloads-tools\n
-下載 Brick Daemon  ==> Unix(armhf)\n
-下載 Brick Viewer  ==> Linux
+    https://www.tinkerforge.com/en/doc/Downloads.html#downloads-tools
+    下載 Brick Daemon  ==> Unix(armhf)
+    下載 Brick Viewer  ==> Linux
