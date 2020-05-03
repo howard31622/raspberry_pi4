@@ -37,7 +37,7 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
     
     
     
-### download python 3.5 environment
+### Download python 3.5 environment
     wget https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tar.xz
     tar xf Python-3.5.6.tar.xz
     cd Python-3.5.6
