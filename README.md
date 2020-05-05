@@ -1,4 +1,4 @@
-# raspberry_pi4
+# raspberry pi 4
 This Tutorial is for setting virtual environment of raspberry pi4 
 
 ## 以下會以中文說明
@@ -48,3 +48,6 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
     ./configure
     make
     sudo make altinstall
+
+### venv
+https://docs.python.org/zh-tw/3/tutorial/venv.html
