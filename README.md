@@ -14,27 +14,30 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
 ### opencv 
     sudo apt install libqt4-test
     sudo apt-get install -y festival python-dev python-opencv python-pip x11vnc liblivemedia-dev libv4l-dev cmake python-matplotlib vlc libatlas-base-dev libjasper-dev libqtgui4 python3-pyqt5
-    pip install opencv-python
-    pip install opencv-contrib-python==4.1.0.25
+    pip3 install opencv-python
+    pip3 install opencv-contrib-python==4.1.0.25
 ### PyQt5
-    pip install vext.PyQt5
+    pip3 install vext.PyQt5
 ### Keras
-    pip install keras
+    pip3 install keras
 ### tensorflow
-    pip install tensorflow
+    pip3 install tensorflow
 ### PIL
-    pip install Pillow
+    pip3 install Pillow
 ### tinkerforge
-    pip install tinkerforge
+    pip3 install tinkerforge
 ### pygame
-    pip install pygame
+    pip3 install pygame
 ### 熱感應 Thinkerforge
     https://www.tinkerforge.com/en/doc/Downloads.html#downloads-tools
     下載 Brick Daemon  ==> Unix(armhf)
     下載 Brick Viewer  ==> Linux
     
 ### 注意事項
-   調整Mem for GPU 在2G最大650
+   1. 調整Mem for GPU 在2G最大600，超過會無法顯示
+   2. 上述的instal，如果是預設python是指python3以上那請改成pip
+   3.
+   4.
    
     
     
