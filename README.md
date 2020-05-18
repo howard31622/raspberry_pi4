@@ -1,7 +1,19 @@
 # raspberry pi 4
 This Tutorial is for setting virtual environment of raspberry pi4 
 
-## 以下會以中文說明
+## set the sound 
+
+## rotate screen 
+add this to the /boot/config.txt    
+        
+        display_rotate = 0 #default
+        display_rotate = 1 #rotate 90 degrees
+        display_rotate = 2 #rotate 180 degrees
+        display_rotate = 3 #rotate 270 degrees
+    
+
+
+## 以下為操作虛擬環境
 raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題，因此在這邊為了避免一些安裝上面的問題，所以在這邊會做紀錄讓大家能方便安裝
 ### 操作前務必要
 進入sudo(重要!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!) 
@@ -51,3 +63,9 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
 
 ### venv
 https://docs.python.org/zh-tw/3/tutorial/venv.html
+
+
+
+
+## reference
+rotate screen https://pimylifeup.com/raspberry-pi-rotate-screen/
