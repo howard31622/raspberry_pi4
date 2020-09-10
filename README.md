@@ -1,7 +1,6 @@
 # raspberry pi 4
 This Tutorial is for setting virtual environment of raspberry pi4 
 
-## set the sound 
 
 ## rotate screen 
 add this to the /boot/config.txt    
@@ -47,10 +46,8 @@ raspberry pi 在裝套件的過程中很容易產生很多不可預期的問題�
     
 ### 注意事項
    1. 調整Mem for GPU 在2G最大600，超過會無法顯示
-   2. 上述的instal，如果是預設python是指python3以上那請改成pip
-   3.
-   4.
-   
+   2. 上述的install，如果是預設python是指python3以上那請改成pip
+
     
     
 ### Download python 3.5 environment
